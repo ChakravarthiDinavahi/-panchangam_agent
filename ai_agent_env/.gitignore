@@ -1,0 +1,4 @@
+# Created by venv; ignore everything in this directory except project files we track.
+*
+!.gitignore
+!local_panchangam_agent.py

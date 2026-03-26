@@ -1,0 +1,35 @@
+# Virtual environment internals (venv folder is ai_agent_env)
+ai_agent_env/bin/
+ai_agent_env/lib/
+ai_agent_env/include/
+ai_agent_env/share/
+ai_agent_env/pyvenv.cfg
+
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+.venv/
+venv/
+ENV/
+
+# Environment and secrets
+.env
+.env.*
+!.env.example
+
+# IDE
+.idea/
+.vscode/
+*.swp
+*.swo
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Large PDFs (optional — remove if you want them in git)
+data/*.pdf
+ai_agent_env/data/*.pdf
