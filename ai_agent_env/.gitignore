@@ -2,3 +2,5 @@
 *
 !.gitignore
 !local_panchangam_agent.py
+!data/
+!data/*.pdf

@@ -29,7 +29,3 @@ ENV/
 # OS
 .DS_Store
 Thumbs.db
-
-# Large PDFs (optional — remove if you want them in git)
-data/*.pdf
-ai_agent_env/data/*.pdf
