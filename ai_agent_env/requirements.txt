@@ -1,0 +1,8 @@
+# Core agent (existing)
+llama-index-core
+llama-index-llms-ollama
+llama-index-embeddings-huggingface
+
+# Web API
+fastapi>=0.115.0
+uvicorn[standard]>=0.32.0

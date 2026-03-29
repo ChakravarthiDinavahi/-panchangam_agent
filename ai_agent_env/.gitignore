@@ -2,5 +2,7 @@
 *
 !.gitignore
 !local_panchangam_agent.py
+!chat_app.py
+!requirements.txt
 !data/
 !data/*.pdf
