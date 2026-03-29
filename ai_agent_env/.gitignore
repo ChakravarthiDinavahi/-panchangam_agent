@@ -6,3 +6,4 @@
 !requirements.txt
 !data/
 !data/*.pdf
+!data/*.txt
